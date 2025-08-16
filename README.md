@@ -1,1 +1,1 @@
-# Full-eShop-Web-Commerce-Single-Vendor-Website-with-Admin-Platform
+# Full-Web-eShop-UserUI-Website-with-Admin-Platform
